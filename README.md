@@ -3,7 +3,7 @@ Code for Mastering Laravel author by Christopher John
 
 Implemented in Laravel 5.2
 
-<h6>This code is written based on Mastering Laravel Book, it contain code for following topics:</h6><br><br>
+<h6>This code is written based on Mastering Laravel Book, it contain code for following topics:</h6><br>
 Chapter 1: Designing Done Right with phpspec <br>
 Chapter 2: Automating Tests – Migrating and Seeding Your Database(with Migration Files and Seedes)<br>
 Chapter 3: Building Services, Commands, and Events <br>
